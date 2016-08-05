@@ -1,0 +1,123 @@
+_repo: The-Sturdy-Oak--13-A-composite-Novel-of-American-Politics-by-fourteen-American-authors_8435
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Wilson, Harry Leon
+    birthdate: &id006 1867
+    deathdate: 1939
+    gutenberg_agent_id: '1206'
+    url: http://www.gutenberg.org/2009/agents/1206
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Leon_Wilson
+  - agent_name: Hurst, Fannie
+    alias: Danielson, Fannie Hurst
+    birthdate: 1889
+    deathdate: 1968
+    gutenberg_agent_id: '3177'
+    url: http://www.gutenberg.org/2009/agents/3177
+    wikipedia: http://en.wikipedia.org/wiki/Fannie_Hurst
+  - agent_name: Norris, Kathleen Thompson
+    birthdate: 1880
+    deathdate: &id002 1966
+    gutenberg_agent_id: '1247'
+    url: http://www.gutenberg.org/2009/agents/1247
+    wikipedia: http://en.wikipedia.org/wiki/Kathleen_Norris
+  - agent_name: Merwin, Samuel
+    birthdate: &id001 1874
+    deathdate: 1936
+    gutenberg_agent_id: '2744'
+    url: http://www.gutenberg.org/2009/agents/2744
+    wikipedia: https://en.wikipedia.org/wiki/Samuel_Merwin_%28writer%29
+  - agent_name: Miller, Alice Duer
+    alias: Duer, Alice
+    birthdate: *id001
+    deathdate: 1942
+    gutenberg_agent_id: '3939'
+    url: http://www.gutenberg.org/2009/agents/3939
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Duer_Miller
+  - agent_name: Scott, Leroy
+    birthdate: &id003 1875
+    deathdate: 1929
+    gutenberg_agent_id: '1176'
+    url: http://www.gutenberg.org/2009/agents/1176
+  - agent_name: Vorse, Mary Heaton
+    aliases:
+    - Vorse, M. H. (Mary Heaton)
+    - Vorse, Mary Marvin Heaton
+    birthdate: *id001
+    deathdate: *id002
+    gutenberg_agent_id: '1683'
+    url: http://www.gutenberg.org/2009/agents/1683
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Heaton_Vorse
+  - agent_name: O'Hagan, Anne
+    alias: O'Hagan, A.
+    birthdate: 1869
+    deathdate: &id005 1934
+    gutenberg_agent_id: '6481'
+    url: http://www.gutenberg.org/2009/agents/6481
+  - agent_name: Grant, Ethel Watts Mumford
+    alias: Mumford, Ethel Watts
+    birthdate: 1878
+    deathdate: 1940
+    gutenberg_agent_id: '4970'
+    url: http://www.gutenberg.org/2009/agents/4970
+  - agent_name: Webster, Henry Kitchell
+    birthdate: *id003
+    deathdate: 1932
+    gutenberg_agent_id: '3868'
+    url: http://www.gutenberg.org/2009/agents/3868
+  - agent_name: Cooke, Marjorie Benton
+    birthdate: 1876
+    deathdate: 1920
+    gutenberg_agent_id: '3876'
+    url: http://www.gutenberg.org/2009/agents/3876
+  - agent_name: White, William Allen
+    alias: White, W. A. (William Allen)
+    birthdate: &id004 1868
+    deathdate: 1944
+    gutenberg_agent_id: '1822'
+    url: http://www.gutenberg.org/2009/agents/1822
+    wikipedia: http://en.wikipedia.org/wiki/William_Allen_White
+  - agent_name: Austin, Mary Hunter
+    birthdate: *id004
+    deathdate: *id005
+    gutenberg_agent_id: '201'
+    url: http://www.gutenberg.org/2009/agents/201
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Hunter_Austin
+  - agent_name: Fisher, Dorothy Canfield
+    aliases:
+    - Fisher, Mrs. John Redwood
+    - Canfield, Dorothy
+    - Fisher, Dorothea Frances Canfield
+    birthdate: 1879
+    deathdate: 1958
+    gutenberg_agent_id: '1781'
+    url: http://www.gutenberg.org/2009/agents/1781
+    wikipedia: http://en.wikipedia.org/wiki/Dorothy_Canfield_Fisher
+creator:
+  editor:
+    agent_name: Jordan, Elizabeth Garver
+    birthdate: *id006
+    deathdate: 1947
+    gutenberg_agent_id: '197'
+    url: http://www.gutenberg.org/2009/agents/197
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8435'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- New York (State) -- Fiction'
+- !lcsh 'Women -- Suffrage -- Fiction'
+- !lcsh 'New York (State) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Suffragists -- Fiction'
+- !lcsh 'Political fiction'
+- !lcsh 'Satire'
+- GITenberg
+title: "The Sturdy Oak\r\nA composite Novel of American Politics by fourteen American\
+  \ authors"
+url: http://www.gutenberg.org/ebooks/8435
